@@ -32,6 +32,30 @@ Sauvegarder les changements.
 
 L'adresse du site est maintenant affichée dans la rubrique `à propos`.
 
+## Utiliser ce template avec GitLab.
+
+Lors de la création d'un nouveau dépôt, choisir l'option `importer un projet`.
+
+Choisir `Dépôt par URL`.
+
+Pour `URL du dépôt Git`: `https://github.com/coda-school/template-site-statique.git`
+
+Donner un nom au dépôt.
+
+Idéalement, rendre le projet public.
+
+Créer le projet.
+
+Le site devrait se déployer la prochaine fois qu'un fichier est `git push`.
+
+### Rendre le site public à tous
+
+- Paramètres
+  - Général
+    - Visibilité, fonctionalité projet et permissions
+    - Pages : "Tout le monde"
+    
+
 ## Lancer le serveur en local avec vite
 
 Après avoir rempli les prérequis (voir plus bas).
