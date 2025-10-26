@@ -6,6 +6,8 @@ pages:
   only:
     - main
     - tags
+  script:
+    - echo "Déploiement sur github pages"
   artifacts:
     paths:
       - public
