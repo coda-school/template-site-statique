@@ -14,6 +14,14 @@ Cliquer sur le bouton `Utiliser ce template` puis `Créer un nouveau dépôt`.
 Donner un nom et une description au dépôt.
 Choisir la visibilité `public`.
 
+### Déploiement sur Github pages
+
+Le dépôt doit avoir la visibilité `public`
+
+Dans [les `paramètres`](settings) du dépôt, rubrique `Pages`, positionner la source de déploiement à `Github Actions`.
+
+Revenir à la 
+
 ## Lancer le serveur en local avec vite
 
 Dans une ligne de commande:
@@ -24,13 +32,6 @@ vite
 ```
 
 Ouvrir dans le navigateur : http://localhost:5173
-
-## Déploiement sur Github pages
-
-Le dépôt doit avoir la visibilité `public`
-
-Dans les `paramètres` du dépôt, rubrique `Pages`, positionner la source de déploiement à `Github Actions`.
-
 
 ## Installation des prérequis
 
