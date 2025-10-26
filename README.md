@@ -16,6 +16,13 @@ vite
 
 Ouvrir dans le navigateur : http://localhost:5173
 
+## Déploiement sur Github pages
+
+Le dépôt doit avoir la visibilité `public`
+
+Dans les `paramètres` du dépôt, rubrique `Pages`, positionner la source de déploiement à `Github Actions`.
+
+
 ## Installation des prérequis
 
 ### Installer nodejs
