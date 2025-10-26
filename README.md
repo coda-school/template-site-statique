@@ -20,7 +20,17 @@ Le dépôt doit avoir la visibilité `public`
 
 Dans les `paramètres` du dépôt, rubrique `Pages`, positionner la source de déploiement à `Github Actions`.
 
-Revenir à la 
+### Afficher le lien de la page dans Github
+
+Revenir à la page principale du dépôt Github.
+
+Dans la rubrique `à propos` (à droite), passer en mode edition.
+
+Dans la rubrique site Web, cocher `Utiliser votre site Web Github Pages`.
+
+Sauvegarder les changements.
+
+L'adresse du site est maintenant affichée dans la rubrique `à propos`.
 
 ## Lancer le serveur en local avec vite
 
