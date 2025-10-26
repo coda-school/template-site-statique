@@ -4,6 +4,7 @@ Ce modèle permet de démarrer un site statique qui peut être lancé en local a
 
 Quand il est stocké dans un dépôt Github ou Gitlab, un site statique est publié.
 
+Le contenu présent dans le dossier `public` sera déployé automatiquement en ligne à chaque fois que du code est poussé avec `git push`.
 
 ## Lancer le serveur en local avec vite
 
