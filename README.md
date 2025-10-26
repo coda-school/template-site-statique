@@ -11,6 +11,9 @@ Le contenu présent dans le dossier `public` sera déployé automatiquement en l
 Se rendre sur https://github.com/coda-school/template-site-statique.
 Cliquer sur le bouton `Utiliser ce template` puis `Créer un nouveau dépôt`.
 
+Donner un nom et une description au dépôt.
+Choisir la visibilité `public`.
+
 ## Lancer le serveur en local avec vite
 
 Dans une ligne de commande:
