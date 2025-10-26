@@ -34,6 +34,8 @@ L'adresse du site est maintenant affichée dans la rubrique `à propos`.
 
 ## Lancer le serveur en local avec vite
 
+Après avoir rempli les prérequis (voir plus bas).
+
 Dans une ligne de commande:
 ```shell
 npx vite
@@ -43,11 +45,11 @@ vite
 
 Ouvrir dans le navigateur : http://localhost:5173
 
-## Installation des prérequis
+## Prérequis
 
 ### Installer nodejs
 
-- Installer nodejs : https://nodejs.org/fr/download
+Installer nodejs : https://nodejs.org/fr/download
 
 ### (Optionnel) installer vite globalement
 
