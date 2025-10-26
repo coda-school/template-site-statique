@@ -6,6 +6,11 @@ Quand il est stocké dans un dépôt Github ou Gitlab, un site statique est publ
 
 Le contenu présent dans le dossier `public` sera déployé automatiquement en ligne à chaque fois que du code est poussé avec `git push`.
 
+## Utiliser ce template avec Github.
+
+Se rendre sur https://github.com/coda-school/template-site-statique.
+Cliquer sur le bouton `Utiliser ce template` puis `Créer un nouveau dépôt`.
+
 ## Lancer le serveur en local avec vite
 
 Dans une ligne de commande:
