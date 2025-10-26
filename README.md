@@ -18,7 +18,7 @@ Choisir la visibilité `public`.
 
 Le dépôt doit avoir la visibilité `public`
 
-Dans [les `paramètres`](settings) du dépôt, rubrique `Pages`, positionner la source de déploiement à `Github Actions`.
+Dans les `paramètres` du dépôt, rubrique `Pages`, positionner la source de déploiement à `Github Actions`.
 
 Revenir à la 
 
