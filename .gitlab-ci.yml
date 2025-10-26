@@ -1,0 +1,12 @@
+stages:
+  - deploy
+
+pages:
+  stage: deploy
+  only:
+    - main
+    - tags
+  artifacts:
+    paths:
+      - public
+
