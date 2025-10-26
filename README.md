@@ -63,7 +63,10 @@ Après avoir rempli les prérequis (voir plus bas).
 Dans une ligne de commande:
 ```shell
 npx vite public
-# Ou si vous avez installé vite globalement
+```
+
+Ou si vous avez installé vite globalement
+```shell
 vite public
 ```
 
